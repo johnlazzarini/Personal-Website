@@ -5,8 +5,9 @@
 This evolved from a simple freelancer template into a unique personal portfolio.  Modals, smooth scrolling, and an intuitive UI are formed from simple applications of HTML, CSS, JS and jQuery.
 
 ## Implementation details
+Most of the implementation details are fairly straight forward -- the majority of the webpage consists of simple links, images, and text.  There are a few things that a beginner might not be familiar with, such as modals.
 
-The code for the modals is fairly straight-forward, but can look intimidating.  Let's look an example of one to better understand how they are implemented here:
+Let's look at an example of one to better understand how they are implemented here:
 
 ```
                 <div class="col-sm-4 portfolio-item">
