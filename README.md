@@ -23,7 +23,7 @@ The code for the modals is fairly straight-forward, but can look intimidating.  
                 </div>
 ```
 
-The col-sm-4 div is contained within a larger row div.  Within it, we can see that the appearance of the modal pre-expansion is simply contained inside of an <a> element, which links to a modal stored in the same file (shown below).  I've chosen to include an image that represents the project as well as a title and the primary language in which it was written.
+The col-sm-4 div is contained within a larger row div.  Within it, we can see that the appearance of the modal pre-expansion is simply contained inside of an "a" tag, which links to a modal stored in the same file (shown below).  I've chosen to include an image that represents the project as well as a title and the primary language in which it was written.
 
 ```
 <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
